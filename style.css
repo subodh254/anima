@@ -1,0 +1,42 @@
+body{
+    background-color: wheat;
+}
+
+.header_div{
+    background-color: white;
+    text-emphasis-color: rgba(0, 0, 0, 0.986);
+}
+.header_div p{
+    font-family: 'Comforter', cursive;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-size: large;
+    font-stretch: wider;
+    position: sticky;
+    text-shadow: 5px 5px 5px black;
+
+}
+.main_div{
+    background-color: black;
+}
+.main_div button{
+font-family: 'Comforter', cursive ;
+background-color: white;
+font-size: larger;
+text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.815);
+border-radius: 80%;
+padding-top: 5px;
+padding-right: 20px;
+font-weight: bolder;
+border: darkturquoise;
+
+}
+.copy_right_footer{
+    width: 100%;
+    background-color: wheat;
+    font-size: larger;
+    bottom: 50px;
+    padding-top: 100px;
+text-shadow: 5px 5px 5px black;
+font-family: 'Hind', sans-serif;
+}
